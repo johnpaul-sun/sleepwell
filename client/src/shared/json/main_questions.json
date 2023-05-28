@@ -1,0 +1,232 @@
+{
+  "main_questions": [
+    {
+      "id": 1,
+      "main_question": "Lorem ipsum dolor sit ament?",
+      "main_choices": [
+        {
+          "id": 1,
+          "main_choice": "Yes",
+          "recommendations": [
+            {
+              "id": 1,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 3,
+              "dislike": 1
+            },
+            {
+              "id": 2,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 2,
+              "dislike": 1
+            },
+            {
+              "id": 3,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 1,
+              "dislike": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "main_choice": "No"
+        },
+        {
+          "id": 3,
+          "main_choice": "Sometimes"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "main_question": "Lorem ipsum dolor sit ament?",
+      "main_choices": [
+        {
+          "id": 1,
+          "main_choice": "Yes",
+          "recommendations": [
+            {
+              "id": 4,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 3,
+              "dislike": 1
+            },
+            {
+              "id": 5,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 2,
+              "dislike": 1
+            },
+            {
+              "id": 6,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 1,
+              "dislike": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "main_choice": "No"
+        },
+        {
+          "id": 3,
+          "main_choice": "Sometimes"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "main_question": "Lorem ipsum dolor sit ament?",
+      "main_choices": [
+        {
+          "id": 1,
+          "main_choice": "Yes",
+          "recommendations": [
+            {
+              "id": 7,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 3,
+              "dislike": 1
+            },
+            {
+              "id": 8,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 2,
+              "dislike": 1
+            },
+            {
+              "id": 9,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 1,
+              "dislike": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "main_choice": "No"
+        },
+        {
+          "id": 3,
+          "main_choice": "Sometimes"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "main_question": "Lorem ipsum dolor sit ament?",
+      "main_choices": [
+        {
+          "id": 1,
+          "main_choice": "Yes",
+          "recommendations": [
+            {
+              "id": 29,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 3,
+              "dislike": 1
+            },
+            {
+              "id": 30,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 12,
+              "dislike": 1
+            },
+            {
+              "id": 31,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 1,
+              "dislike": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "main_choice": "No"
+        },
+        {
+          "id": 3,
+          "main_choice": "Sometimes"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "main_question": "Lorem ipsum dolor sit ament?",
+      "main_choices": [
+        {
+          "id": 1,
+          "main_choice": "Yes",
+          "recommendations": [
+            {
+              "id": 32,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 3,
+              "dislike": 1
+            },
+            {
+              "id": 33,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 2,
+              "dislike": 1
+            },
+            {
+              "id": 34,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 1,
+              "dislike": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "main_choice": "No"
+        },
+        {
+          "id": 3,
+          "main_choice": "Sometimes"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "main_question": "Lorem ipsum dolor sit ament?",
+      "main_choices": [
+        {
+          "id": 1,
+          "main_choice": "Yes",
+          "recommendations": [
+            {
+              "id": 35,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 3,
+              "dislike": 1
+            },
+            {
+              "id": 36,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 2,
+              "dislike": 1
+            },
+            {
+              "id": 37,
+              "recommendation": "Lorem ipsum, dolor sit amet.",
+              "like": 1,
+              "dislike": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "main_choice": "No"
+        },
+        {
+          "id": 3,
+          "main_choice": "Sometimes"
+        }
+      ]
+    }
+  ]
+}

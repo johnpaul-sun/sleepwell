@@ -1,0 +1,32 @@
+{
+  "pre_questions": [
+    {
+      "id": 1,
+      "pre_question": "Lorem ipsum dolor sit amet 1?",
+      "pre_choices": [
+        {
+          "id": 1,
+          "pre_choice": "Yes, lorem ipsum 1."
+        },
+        {
+          "id": 2,
+          "pre_choice": "No, lorem ipsum 1."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pre_question": "Lorem ipsum dolor sit amet 2?",
+      "pre_choices": [
+        {
+          "id": 3,
+          "pre_choice": "Yes, lorem ipsum 2."
+        },
+        {
+          "id": 4,
+          "pre_choice": "No, lorem ipsum 2."
+        }
+      ]
+    }
+  ]
+}

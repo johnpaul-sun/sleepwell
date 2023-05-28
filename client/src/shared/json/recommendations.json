@@ -1,0 +1,19 @@
+{
+  "latest_recommendations": {
+    "id": 1,
+    "is_active": true,
+    "likes": [],
+    "dislikes": [],
+    "recommendations": [
+      {
+        "id": 1,
+        "latest_recommendation_id": 1,
+        "main_question": {
+          "id": 1,
+          "value": "Lorem ipsum dolor sit amet?"
+        },
+        "main_choice": 1
+      }
+    ]
+  }
+}

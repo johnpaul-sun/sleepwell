@@ -1,0 +1,128 @@
+{
+    "id": 1,
+    "fullname": "John Doe",
+    "email": "john.doe@gmail.com",
+    "age": 18,
+    "gender": "Male",
+    "past_recommendations": [
+        {
+            "id": 1,
+            "total_recommendations": 3,
+            "likes": [ 1, 7 ],
+            "dislikes": [ 4 ],
+            "recommendations": [
+                {
+                    "id": 1,
+                    "question": {
+                        "id": 1,
+                        "main_question": "Lorem ipsum dolor sit amet?"
+                    },
+                    "answer": {
+                        "id": 1,
+                        "main_choice": "Yes"
+                    },
+                    "recommendation": {
+                        "id": 1,
+                        "recommendation": "Lorem ipsum dolor sit amet.",
+                        "like": 3,
+                        "dislike": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "question": {
+                        "id": 2,
+                        "main_question": "Lorem ipsum dolor sit amet?"
+                    },
+                    "answer": {
+                        "id": 1,
+                        "main_choice": "Yes"
+                    },
+                    "recommendation": {
+                        "id": 4,
+                        "recommendation": "Lorem ipsum dolor sit amet.",
+                        "like": 3,
+                        "dislike": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "question": {
+                        "id": 3,
+                        "main_question": "Lorem ipsum dolor sit amet?"
+                    },
+                    "answer": {
+                        "id": 1,
+                        "main_choice": "Yes"
+                    },
+                    "recommendation": {
+                        "id": 7,
+                        "recommendation": "Lorem ipsum dolor sit amet.",
+                        "like": 3,
+                        "dislike": 1
+                    }
+                }
+            ],
+            "last_updated_at": "date"
+        }
+    ],
+    "latest_recommendation": {
+        "id": 2,
+        "total_recommendations": 3,
+        "likes": [ 1 ],
+        "dislikes": [ 5 ],
+        "recommendations": [
+            {
+                "id": 4,
+                "question": {
+                    "id": 1,
+                    "main_question": "Lorem ipsum dolor sit amet?"
+                },
+                "answer": {
+                    "id": 1,
+                    "main_choice": "Yes"
+                },
+                "recommendation": {
+                    "id": 1,
+                    "recommendation": "Lorem ipsum dolor sit amet.",
+                    "like": 3,
+                    "dislike": 1
+                }
+            },
+            {
+                "id": 5,
+                "question": {
+                    "id": 2,
+                    "main_question": "Lorem ipsum dolor sit amet?"
+                },
+                "answer": {
+                    "id": 1,
+                    "main_choice": "Yes"
+                },
+                "recommendation": {
+                    "id": 5,
+                    "recommendation": "Lorem ipsum dolor sit amet.",
+                    "like": 2,
+                    "dislike": 1
+                }
+            },
+            {
+                "id": 6,
+                "question": {
+                    "id": 3,
+                    "main_question": "Lorem ipsum dolor sit amet?"
+                },
+                "answer": {
+                    "id": 1,
+                    "main_choice": "Yes"
+                },
+                "recommendation": {
+                    "id": 7,
+                    "recommendation": "Lorem ipsum dolor sit amet.",
+                    "like": 3,
+                    "dislike": 1
+                }
+            }
+        ]
+    }
+}
